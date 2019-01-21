@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/src/AppYard.Playground/AppYard.Playground.csproj"
+                "${workspaceFolder}/src/JsonSchema.Lab/DataManagement.Api/AppYard.Lab.DataManagement.Api.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
